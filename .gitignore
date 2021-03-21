@@ -1,6 +1,9 @@
 #vs studio configs
 .vscode
 
+#coverage folder
+coverage
+
 # Logs
 logs
 *.log
